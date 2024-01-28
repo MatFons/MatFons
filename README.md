@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MatFons
 - 👀 I’m interested in creativity
-- 🌱 I’m currently learning Godot
+- 🌱 I’m currently working on The Odin Project
